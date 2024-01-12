@@ -2,7 +2,7 @@
 # All-State Insurance Claims Severity Prediction with Ensemble Learning
 
 ## Overview
-This project focuses on predicting the severity and cost of insurance claims for All-State, a leading personal insurance company in the US. By leveraging ensemble machine learning algorithms, we analyze and predict the impact of unforeseen events on insurance claims. The project encompasses everything from data cleaning to model deployment.
+This project leveraged ensemble machine learning algorithms to analyze and predict the impact of unforeseen events on insurance claims for All-State, a leading personal insurance company in the US. It encompassed everything from data cleaning to model deployment.
 
 ## Tech Stack
 - **Language:** Python
